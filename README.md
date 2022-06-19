@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mowille
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning full-stack web development...
 - 📫 How to reach me - @willieadex@gmail.com
 
 <!---
